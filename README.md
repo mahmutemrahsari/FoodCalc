@@ -1,5 +1,6 @@
 # FoodCalc
-This project is about FoodCalc App prototype!
---
-Final Project Group 2019
+This project is about the prototyping of FoodCalc App !
+
+
+© Final Project Group 2019
 --
