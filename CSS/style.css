@@ -5,7 +5,6 @@
 body{
     margin: 0; 
     font-family: Arial, Helvetica, sans-serif; 
-    color: #b2afaf; 
     height: 100%; 
     width: 100%; 
 }
@@ -141,19 +140,13 @@ a{
     }
 }
 
-
-.ground{
-    background-color:#f4f4f4;
-    height: 100%;
-    width: 100%;
-}
-
 .videoPlayer{
-    border-radius: 3%;
     padding-top: 150px;
     padding-right: 90px;
     padding-left: 90px;
-    margin-right: 70%;
+    background-color:#f4f4f4;
 }
-    
-    
+
+.text{
+    padding-top: 150px;
+} 
